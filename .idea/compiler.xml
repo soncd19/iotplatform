@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="server" />
+        <module name="ruleengine-core" />
+        <module name="dao" />
+        <module name="ui" />
+        <module name="plugin-mqtt" />
+        <module name="data" />
+        <module name="iothub" />
+        <module name="plugin-webhook" />
+        <module name="plugin-kafka" />
+        <module name="ruleengine-api" />
+        <module name="ruleengine-message" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="core" target="1.8" />
+      <module name="dao" target="1.8" />
+      <module name="data" target="1.8" />
+      <module name="iothub" target="1.8" />
+      <module name="platform" target="1.8" />
+      <module name="plugin-kafka" target="1.8" />
+      <module name="plugin-mqtt" target="1.8" />
+      <module name="plugin-webhook" target="1.8" />
+      <module name="plugins" target="1.8" />
+      <module name="ruleengine" target="1.8" />
+      <module name="ruleengine-api" target="1.8" />
+      <module name="ruleengine-core" target="1.8" />
+      <module name="ruleengine-message" target="1.8" />
+      <module name="server" target="1.8" />
+      <module name="ui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

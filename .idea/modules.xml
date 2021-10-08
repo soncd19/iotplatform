@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/iot-infomgt/core.iml" filepath="$PROJECT_DIR$/iot-infomgt/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-infomgt/iot-infomgt-dao/dao.iml" filepath="$PROJECT_DIR$/iot-infomgt/iot-infomgt-dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-infomgt/iot-data/data.iml" filepath="$PROJECT_DIR$/iot-infomgt/iot-data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iothub/iothub.iml" filepath="$PROJECT_DIR$/iothub/iothub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform.iml" filepath="$PROJECT_DIR$/platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-action-plugins/plugin-kafka/plugin-kafka.iml" filepath="$PROJECT_DIR$/iot-action-plugins/plugin-kafka/plugin-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-action-plugins/plugin-mqtt/plugin-mqtt.iml" filepath="$PROJECT_DIR$/iot-action-plugins/plugin-mqtt/plugin-mqtt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-action-plugins/plugin-webhook/plugin-webhook.iml" filepath="$PROJECT_DIR$/iot-action-plugins/plugin-webhook/plugin-webhook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-action-plugins/plugins.iml" filepath="$PROJECT_DIR$/iot-action-plugins/plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-ruleengine/ruleengine.iml" filepath="$PROJECT_DIR$/iot-ruleengine/ruleengine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-ruleengine/ruleengine-api/ruleengine-api.iml" filepath="$PROJECT_DIR$/iot-ruleengine/ruleengine-api/ruleengine-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-ruleengine/ruleengine-core/ruleengine-core.iml" filepath="$PROJECT_DIR$/iot-ruleengine/ruleengine-core/ruleengine-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-ruleengine/ruleengine-message/ruleengine-message.iml" filepath="$PROJECT_DIR$/iot-ruleengine/ruleengine-message/ruleengine-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotplatform/server.iml" filepath="$PROJECT_DIR$/iotplatform/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotplatform-ui/ui.iml" filepath="$PROJECT_DIR$/iotplatform-ui/ui.iml" />
+    </modules>
+  </component>
+</project>
